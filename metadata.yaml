@@ -1,0 +1,45 @@
+_repo: The-Young-Continentals-at-Trenton_66806
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Boyer, Ralph L. (Ralph Ludwig)
+    birthdate: 1879
+    deathdate: 1952
+    gutenberg_agent_id: '34848'
+    url: http://www.gutenberg.org/2009/agents/34848
+creator:
+  author:
+    agent_name: McIntyre, John Thomas
+    alias: McIntyre, John T. (John Thomas)
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '4311'
+    url: http://www.gutenberg.org/2009/agents/4311
+    wikipedia: https://en.wikipedia.org/wiki/John_T._McIntyre
+description: ''
+gutenberg_issued: '2021-11-24'
+identifiers:
+  gutenberg: '66806'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=umn.319510023129711&view=1up&seq=17&skin=2021
+pgterms:marc905: 20211015135345mcintyre
+pgterms:marc906: '1911'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, with thanks to Bowling Green State
+  University for providing the image of original book cover. and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: United States :Penn Publishing Company,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PZ'
+- !lcsh 'War stories'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'New York (N.Y.) -- History -- Juvenile fiction'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- GITenberg
+title: The Young Continentals at Trenton
+url: http://www.gutenberg.org/ebooks/66806
