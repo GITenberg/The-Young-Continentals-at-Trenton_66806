@@ -7,6 +7,9 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '34848'
     url: http://www.gutenberg.org/2009/agents/34848
+covers:
+- cover_type: archival
+  image_path: 66806-h/images/cover.jpg
 creator:
   author:
     agent_name: McIntyre, John Thomas
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4311
     wikipedia: https://en.wikipedia.org/wiki/John_T._McIntyre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66806#The-Young-Continentals-at-Trenton
 gutenberg_issued: '2021-11-24'
 identifiers:
   gutenberg: '66806'
